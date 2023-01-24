@@ -1,6 +1,6 @@
 # printf
 
-A collaborative ALX project by Mur-tal and Ntim1234
+### A collaborative ALX project by Mur-tal and Ntim1234
 
 1-print_list.c
 
