@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
-* _putchar - write  a single character.
+* put_char - write  a single character.
 * @c: The character to print
 * Return: 0
 */
