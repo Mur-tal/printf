@@ -14,4 +14,4 @@ _printf.c
 
 put_char.c
 
-selector.c  
+selector.c

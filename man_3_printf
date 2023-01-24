@@ -8,7 +8,6 @@
 
 .SH SYNOPSIS
      #include "main.h"
- 
      int _printf(const char *format, ...);
 
 .SH DESCRIPTION
