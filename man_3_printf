@@ -1,5 +1,5 @@
 
-.\" Manpage for _printf.
+# Manpage for _printf.
 
 .TH man 3 "24th January, 2023" "0.10" "_printf man page"
 
