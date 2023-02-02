@@ -24,5 +24,6 @@ int prints_string(va_list);
 int prints_percent(va_list);
 int prints_numbers(va_list);
 int prints_rot13(va_list);
+void print_binary(unsigned int n, unsigned int *printed);
 
 #endif
